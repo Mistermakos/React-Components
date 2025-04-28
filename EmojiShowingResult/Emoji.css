@@ -1,0 +1,15 @@
+.ImagesHolder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: 100vh;
+}
+
+.ImagesHolder img {
+    width: 25%;
+    max-width: 200px;
+    height: auto;
+    margin: 10px;
+}
